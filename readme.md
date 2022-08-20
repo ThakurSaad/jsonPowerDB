@@ -6,7 +6,7 @@ This is a project of a functional form with database interaction. <strong>jsonPo
 
 ### Benefits of using jsonPowerDB
 
-</hr>
+<hr>
 
 - Nimble, Simple to use, In Memory, Real Time
 - Schema free - easy to maintain
@@ -21,14 +21,14 @@ This is a project of a functional form with database interaction. <strong>jsonPo
 
 ### Additional Information
 
-</hr>
+<hr>
 
-[How to use JsonPowerDB - Official documentation](https://login2explore.com/jpdb/docs.html) </br>
+[How to use JsonPowerDB - Official documentation](https://login2explore.com/jpdb/docs.html) <br>
 [How to use JsonPowerDB - Official youtube](https://www.youtube.com/watch?v=GT8TTtqPloE&t=4s&ab_channel=JsonPowerDB)
 
 ### A glimpse of jsonPowerDB
 
-</hr>
+<hr>
 
 ### Dashboard
 ![Dashboard](https://github.com/ThakurSaad/jsonPowerDB/blob/main/assets/dashboard.png)
