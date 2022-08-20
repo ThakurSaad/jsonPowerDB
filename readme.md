@@ -2,11 +2,11 @@
 
 [Official Website](https://login2explore.com/)
 
-This is a project of a functional form with database interaction. <strong>jsonPowerDB</strong> is used here as database. The reason for using jsonPowerDB is because it is an efficient database.
+This is a project of a functional form with database interaction. <strong>jsonPowerDB</strong> is used here as database. jsonPowerDB is an efficient database which is developer friendly, easy to learn and easy to use. It minimizes the development cost, total cost of ownership and time to market. Moreover, it maximizes data processing performance.
 
 ### Benefits of using jsonPowerDB
 
-<` hr>
+<hr>
 
 - Nimble, Simple to use, In Memory, Real Time
 - Schema free - easy to maintain
