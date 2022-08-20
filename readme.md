@@ -19,5 +19,9 @@ This is a project of a functional form with database interaction. <strong>jsonPo
 
 ### Additional Information
 
-[How to use JsonPowerDB - Official documentation](https://login2explore.com/jpdb/docs.html)
+[How to use JsonPowerDB - Official documentation](https://login2explore.com/jpdb/docs.html) </br>
 [How to use JsonPowerDB - Official youtube](https://www.youtube.com/watch?v=GT8TTtqPloE&t=4s&ab_channel=JsonPowerDB)
+
+### A glimpse of jsonPowerDB
+### Dashboard
+[Dashboard](https://github.com/ThakurSaad/jsonPowerDB/blob/main/assets/dashboard.png)
