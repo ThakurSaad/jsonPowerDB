@@ -24,4 +24,4 @@ This is a project of a functional form with database interaction. <strong>jsonPo
 
 ### A glimpse of jsonPowerDB
 ### Dashboard
-[Dashboard](https://github.com/ThakurSaad/jsonPowerDB/blob/main/assets/dashboard.png)
+![Dashboard](https://github.com/ThakurSaad/jsonPowerDB/blob/main/assets/dashboard.png)
